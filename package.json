@@ -1,0 +1,7 @@
+{
+  "name": "ramadan-bridge",
+  "version": "1.0.0",
+  "description": "OG Meta Tag Generator for RamadanGift",
+  "main": "api/index.js",
+  "dependencies": {}
+}
